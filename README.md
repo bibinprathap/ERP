@@ -5,6 +5,9 @@ This software can be described as a complete business software solution.It has m
 Project Demo
 https://adroitclouderp.com/cloud-erp-free-trail/index.html
 
+Username:  ADMIN
+Password:  123 
+
 Website 
 http://adroitclouderp.com/
  
