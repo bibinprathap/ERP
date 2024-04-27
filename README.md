@@ -13,13 +13,13 @@
 This software can be described as a complete business software solution.It has module such as sales , purchase  ,inventory,Accounts. please check below demo link.
  
 Project Demo
-https://mobile-web-gis.pro/cloud-erp-free-trail/index.html
+https://erpui.netlify.app/
 
 Username:  ADMIN
 Password:  123 
 
 Website 
-http://mobile-web-gis.pro/
+https://erpui.netlify.app/
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
