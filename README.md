@@ -15,7 +15,7 @@ This software can be described as a complete business software solution.It has m
 Project Demo
 https://erpui.netlify.app/
 
-Username:  ADMIN
+Username:  wipro@gmail.com
 Password:  123 
 
 Website 
