@@ -10,7 +10,11 @@
 </a>
 
 </p>
-This software can be described as a complete business software solution.It has module such as sales , purchase  ,inventory,Accounts. please check below demo link.
+This software can be described as a complete business software solution.It has module such as sales , purchase  ,inventory,Accounts. 
+
+https://bibinprathap.com/
+
+please check below demo link.
  
 Project Demo
 https://erpui.netlify.app/
